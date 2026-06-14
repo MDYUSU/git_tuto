@@ -1,6 +1,6 @@
 const about = {
   name: "Mohammed Yusuf",
-  role: "Backend Developer",
+  role: "Full Stack Developer",
   location: "Udupi, Karnataka"
 }
 
